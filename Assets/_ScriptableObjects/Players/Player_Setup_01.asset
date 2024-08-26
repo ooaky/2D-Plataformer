@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f178d9d9ae007994292299563b6558b3, type: 3}
+  m_Name: Player_Setup_01
+  m_EditorClassIdentifier: 
+  friction: {x: -1, y: 0}
+  speed: 17.2
+  speedRun: 33.5
+  forceJump: 35
+  jumpScaleY: 1
+  jumpScaleX: 1
+  animationDuration: 0.3
+  ease: 27
+  boolRun: Run
+  boolDeath: Death
+  playerSwipeDuration: 0.1
+  color: {r: 1, g: 0, b: 0, a: 1}
